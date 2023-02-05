@@ -1,4 +1,4 @@
-DEVICE_PATH := device/infinix/Infinix-X653C
+DEVICE_PATH := device/Infinix/Infinix-X653C
 ALLOW_MISSING_DEPENDENCIES := true
 TARGET_ARCH := arm
 TARGET_ARCH_VARIANT := armv7-a-neon
