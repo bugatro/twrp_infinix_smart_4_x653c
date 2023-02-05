@@ -1,0 +1,2 @@
+add_lunch_combo omni_Infinix-X653C-userdebug
+add_lunch_combo omni_Infinix-X653C-eng
